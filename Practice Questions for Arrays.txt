@@ -1,0 +1,7 @@
+Simple Practice Questions:
+
+1. Calculate the sum of all elements in a 2D array.
+2. Find the maximum element in a 2D array.
+3. Calculate the average value of each row in a 2D array.
+4. Check if a given value exists in a 2D array.
+5. Transpose a 2D array (convert rows to columns and vice versa).
